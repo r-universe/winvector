@@ -3,3 +3,48 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cdata"]
+	path = cdata
+	url = https://github.com/winvector/cdata
+	shallow = true
+	registered = true
+[submodule "RcppDynProg"]
+	path = RcppDynProg
+	url = https://github.com/winvector/rcppdynprog
+	shallow = true
+	registered = true
+[submodule "rqdatatable"]
+	path = rqdatatable
+	url = https://github.com/winvector/rqdatatable
+	shallow = true
+	registered = true
+[submodule "rquery"]
+	path = rquery
+	url = https://github.com/winvector/rquery
+	shallow = true
+	registered = true
+[submodule "seplyr"]
+	path = seplyr
+	url = https://github.com/winvector/seplyr
+	shallow = true
+	registered = true
+[submodule "sigr"]
+	path = sigr
+	url = https://github.com/winvector/sigr
+	shallow = true
+	registered = true
+[submodule "vtreat"]
+	path = vtreat
+	url = https://github.com/winvector/vtreat
+	shallow = true
+	registered = true
+[submodule "wrapr"]
+	path = wrapr
+	url = https://github.com/winvector/wrapr
+	shallow = true
+	registered = true
+[submodule "WVPlots"]
+	path = WVPlots
+	url = https://github.com/winvector/wvplots
+	shallow = true
+	registered = true
