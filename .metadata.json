@@ -16,9 +16,6 @@
     "oncran": true
   },
   {
-    "package": "seplyr"
-  },
-  {
     "package": "sigr",
     "oncran": true
   },

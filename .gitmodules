@@ -23,11 +23,6 @@
 	url = https://github.com/winvector/rquery
 	shallow = true
 	registered = true
-[submodule "seplyr"]
-	path = seplyr
-	url = https://github.com/winvector/seplyr
-	shallow = true
-	registered = true
 [submodule "sigr"]
 	path = sigr
 	url = https://github.com/winvector/sigr
