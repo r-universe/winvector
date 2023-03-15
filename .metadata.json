@@ -1,14 +1,22 @@
 [
   {
+    "package": "cdata",
+    "oncran": true
+  },
+  {
     "package": "RcppDynProg",
     "oncran": true
   },
   {
-    "package": "WVPlots",
+    "package": "rqdatatable",
     "oncran": true
   },
   {
-    "package": "cdata",
+    "package": "rquery",
+    "oncran": true
+  },
+  {
+    "package": "sigr",
     "oncran": true
   },
   {
@@ -20,15 +28,7 @@
     "oncran": true
   },
   {
-    "package": "rquery",
-    "oncran": true
-  },
-  {
-    "package": "rqdatatable",
-    "oncran": true
-  },
-  {
-    "package": "sigr",
+    "package": "WVPlots",
     "oncran": true
   }
 ]
