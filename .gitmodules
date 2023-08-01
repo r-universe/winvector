@@ -2,12 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "cdata"]
-	path = cdata
-	url = https://github.com/winvector/cdata
 [submodule "RcppDynProg"]
 	path = RcppDynProg
 	url = https://github.com/winvector/rcppdynprog
+[submodule "WVPlots"]
+	path = WVPlots
+	url = https://github.com/winvector/wvplots
+[submodule "cdata"]
+	path = cdata
+	url = https://github.com/winvector/cdata
 [submodule "rqdatatable"]
 	path = rqdatatable
 	url = https://github.com/winvector/rqdatatable
@@ -23,6 +26,3 @@
 [submodule "wrapr"]
 	path = wrapr
 	url = https://github.com/winvector/wrapr
-[submodule "WVPlots"]
-	path = WVPlots
-	url = https://github.com/winvector/wvplots
